@@ -17,5 +17,11 @@
 }
 
 .todo-list {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.close-icon {
+  margin-left: 50px;
+  margin-top: 5px;
 }
