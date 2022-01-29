@@ -5,7 +5,8 @@ This is a Todo List program where you use voice commands to simply add or remove
 ## How to install:
 
 - Clone git repository
-- Install the dependencies:<pre>npm i</pre>
+- Install the dependencies:<br />
+<pre>npm i</pre>
 - Start the server:<br />
 <pre>npm start</pre>
 
