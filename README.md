@@ -18,5 +18,3 @@ This is a Todo List program where you use voice commands to simply add or remove
 - CSS
 - JavaScript
 - Git/GitHub
-
-## How it looks:
