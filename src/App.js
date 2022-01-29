@@ -23,7 +23,7 @@ function App() {
 
   return (
     <>
-      <Todo databaseRef={databaseRef} update={update} setUpdate={setUpdate}/>
+      <Todo databaseRef={databaseRef} update={update} setUpdate={setUpdate} />
     </>
   )
 }
