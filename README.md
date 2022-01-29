@@ -1,8 +1,6 @@
 # Voiced-Todo-List
 
-This is a Todo List program where you use voice commands to simply add or remove items from a Todo List. The voice command is powered by Alan AI, which is a powerful conversational AI. User can dynamically add or remove items using voice commands allowing a new way to use a Todo List. 
-
-Check out the program in action: https://sakibur-karim.github.io/Voiced-Todo-List/
+This is a Todo List program where you use voice commands to simply add or remove items from a Todo List. The voice command is powered by Alan AI, which is a powerful conversational AI. User can dynamically add items using voice commands allowing a new way to use a Todo List. 
 
 ## How to install:
 
