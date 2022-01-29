@@ -11,7 +11,7 @@
 
 .todo-card {
   border: 5px dashed #000000;
-  height: 50vh;
+  height: auto;
   width: 50vh;
   border-radius: 20px;
 }
@@ -24,4 +24,8 @@
 .close-icon {
   margin-left: 50px;
   margin-top: 5px;
+}
+
+.todo-item {
+  text-transform: capitalize;
 }
