@@ -3,5 +3,7 @@
 ## How to install:
 
 - Clone the repo
-- Run <code>npm i</code> on terminal
-- Run <code>npm start</code> on terminal
+- Install the dependencies:
+<h2><code>npm i</code></h2>
+- Start the server:
+<h2><code>npm start</code></h2>
