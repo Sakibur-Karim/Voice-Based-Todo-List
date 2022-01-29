@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-voiced-todo-list/static/css/main.5b5a9d95.css",
+    "main.js": "/react-voiced-todo-list/static/js/main.937fe4e8.js",
+    "index.html": "/react-voiced-todo-list/index.html",
+    "main.5b5a9d95.css.map": "/react-voiced-todo-list/static/css/main.5b5a9d95.css.map",
+    "main.937fe4e8.js.map": "/react-voiced-todo-list/static/js/main.937fe4e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b5a9d95.css",
+    "static/js/main.937fe4e8.js"
+  ]
+}
