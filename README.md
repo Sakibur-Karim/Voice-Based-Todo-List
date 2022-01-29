@@ -1,9 +1,21 @@
 # Voiced-Todo-List
 
+This is a Todo List program where you use voice commands to simply add or remove items from a Todo List. The voice command is powered by Alan AI, which is a powerful conversational AI. User can dynamically add or remove items using voice commands allowing a new way to use a Todo List. 
+
 ## How to install:
 
-- Clone the repo
-- Install the dependencies:
-<h2><code>npm i</code></h2>
-- Start the server:
-<h2><code>npm start</code></h2>
+- Clone git repository
+- Install the dependencies:<pre>npm i</pre>
+- Start the server:<br />
+<pre>npm start</pre>
+
+## Tools & Technologies
+
+- React
+- Google Firebase
+- HTML
+- CSS
+- JavaScript
+- Git/GitHub
+
+## How it looks:
