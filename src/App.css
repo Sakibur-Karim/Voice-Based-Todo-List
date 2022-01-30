@@ -10,7 +10,7 @@
 }
 
 .todo-card {
-  border: 5px dashed #000000;
+  border: 5px solid #000000;
   height: auto;
   min-height: 10vh;
   width: 50vh;
@@ -21,13 +21,19 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: 'Lucida Sans';
+  border: 2px solid #000000;
 }
 
 .close-icon {
   margin-left: 50px;
-  margin-top: 5px;
+  color: red
 }
 
 .todo-item {
   text-transform: capitalize;
+}
+
+.footer {
+  text-align: center;
 }

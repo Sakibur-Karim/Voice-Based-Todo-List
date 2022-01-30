@@ -1,5 +1,5 @@
 import React from 'react'
-import { FiX } from 'react-icons/fi'
+import { FiTrash2 } from 'react-icons/fi'
 import { useEffect } from 'react'
 import { getDocs, doc, deleteDoc } from 'firebase/firestore'
 import { useState } from 'react'
@@ -27,13 +27,17 @@ export default function Todo({ databaseRef, update, setUpdate }) {
   return (
     <>
       <div className='todo-main'>
-        <h1 className='header'>Todo React</h1>
+        <h1 className='header'>To-Do List</h1>
         <div className='todo-card'>
           {todoList.map((todo) => {
             return (
               <div className='todo-list'>
-                <h3 className='todo-item'>{todo.item}</h3>
-                <FiX
+                <ul>
+                  <li>
+                    <h3 className='todo-item'>{todo.item}</h3>
+                  </li>
+                </ul>
+                <FiTrash2
                   className='close-icon'
                   onClick={() => deleteItems(todo.id)}
                 />
@@ -42,6 +46,7 @@ export default function Todo({ databaseRef, update, setUpdate }) {
           })}
         </div>
       </div>
+      <p className='footer'>Click the blue button to add a new item using voice command!</p>
     </>
   )
 }
