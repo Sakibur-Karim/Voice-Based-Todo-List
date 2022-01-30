@@ -46,7 +46,12 @@ export default function Todo({ databaseRef, update, setUpdate }) {
           })}
         </div>
       </div>
-      <p className='footer'>Click the blue button to add a new item using voice command!</p>
+      <p className='footer'>
+        Click the blue button to add a new item using voice command!
+      </p>
+      <p className='footer'>
+        Click the red button to remove an item from the list.
+      </p>
     </>
   )
 }
