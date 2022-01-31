@@ -1,6 +1,6 @@
 {
   "homepage": "https://sakibur-karim.github.io/Voice-Based-Todo-List/",
-  "name": "react-todo",
+  "name": "todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

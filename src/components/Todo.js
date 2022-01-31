@@ -34,7 +34,7 @@ export default function Todo({ databaseRef, update, setUpdate }) {
               <div className='todo-list'>
                 <ul>
                   <li>
-                    <h3 className='todo-item'>{todo.item}</h3>
+                    <h3 className='todo-item tick-mark'>{todo.item}</h3>
                   </li>
                 </ul>
                 <FiTrash2

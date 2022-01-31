@@ -2,7 +2,7 @@ import './App.css'
 import Todo from './components/Todo'
 import alanBtn from '@alan-ai/alan-sdk-web'
 import React, { useEffect, useState } from 'react'
-import { app, database } from './firebase-config'
+import { database } from './firebase-config'
 import { collection, addDoc } from 'firebase/firestore'
 
 const databaseRef = collection(database, 'todo-list')
