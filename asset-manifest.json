@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Voiced-Todo-List/static/css/main.95b84f88.css",
-    "main.js": "/Voiced-Todo-List/static/js/main.b9d44ef4.js",
-    "index.html": "/Voiced-Todo-List/index.html",
-    "main.95b84f88.css.map": "/Voiced-Todo-List/static/css/main.95b84f88.css.map",
-    "main.b9d44ef4.js.map": "/Voiced-Todo-List/static/js/main.b9d44ef4.js.map"
+    "main.css": "/Voice-Based-Todo-List/static/css/main.95b84f88.css",
+    "main.js": "/Voice-Based-Todo-List/static/js/main.b9d44ef4.js",
+    "index.html": "/Voice-Based-Todo-List/index.html",
+    "main.95b84f88.css.map": "/Voice-Based-Todo-List/static/css/main.95b84f88.css.map",
+    "main.b9d44ef4.js.map": "/Voice-Based-Todo-List/static/js/main.b9d44ef4.js.map"
   },
   "entrypoints": [
     "static/css/main.95b84f88.css",
