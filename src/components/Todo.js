@@ -32,11 +32,7 @@ export default function Todo({ databaseRef, update, setUpdate }) {
           {todoList.map((todo) => {
             return (
               <div className='todo-list'>
-                <ul>
-                  <li>
-                    <h3 className='todo-item tick-mark'>{todo.item}</h3>
-                  </li>
-                </ul>
+                <h3 className='todo-item'>{todo.item}</h3>
                 <FiTrash2
                   className='close-icon'
                   onClick={() => deleteItems(todo.id)}
