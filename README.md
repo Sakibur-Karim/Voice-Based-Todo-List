@@ -20,3 +20,6 @@ Check out how it looks: https://sakibur-karim.github.io/Voice-Based-Todo-List/
 - CSS
 - JavaScript
 - Git/GitHub
+
+## How it looks:
+![image](https://user-images.githubusercontent.com/58964916/152347142-407b23a2-5871-4e44-a2dd-96f59cffbcd1.png)
