@@ -8,7 +8,7 @@ Check out how it looks: https://sakibur-karim.github.io/Voice-Based-Todo-List/
 
 - Clone git repository
 - Install the dependencies:<br />
-<pre>npm i</pre>
+<pre>npm ci</pre>
 - Start the server:<br />
 <pre>npm start</pre>
 
